@@ -1,9 +1,9 @@
 
-# Batch Beacon Timetable 📚
+# Batch Beacon Timetable 
 
 A comprehensive timetable management system built with React and Supabase, designed to streamline academic scheduling for educational institutions.
 
-## 🌟 Features
+## Features
 
 - **Smart Timetable Generation**: Automated conflict-free scheduling algorithm
 - **Faculty Management**: Complete faculty profiles with availability tracking
@@ -13,7 +13,7 @@ A comprehensive timetable management system built with React and Supabase, desig
 - **Real-time Updates**: Live synchronization across all users
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18 with TypeScript
 - **Backend**: Supabase (PostgreSQL + Auth + Real-time)
@@ -22,7 +22,7 @@ A comprehensive timetable management system built with React and Supabase, desig
 - **State Management**: React Query (TanStack Query)
 - **Routing**: React Router DOM
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this project, make sure you have:
 
@@ -30,7 +30,7 @@ Before running this project, make sure you have:
 - npm or yarn package manager
 - A Supabase account and project
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -55,7 +55,7 @@ Before running this project, make sure you have:
 
 The application will be available at `http://localhost:8080`
 
-## 🗄️ Database Setup
+## Database Setup
 
 The application uses the following Supabase tables:
 
@@ -65,7 +65,7 @@ The application uses the following Supabase tables:
 - **resources**: Track available rooms and facilities
 - **timetable_entries**: Store generated timetable data
 
-## 🎯 Usage
+## Usage
 
 ### Getting Started
 
@@ -82,7 +82,7 @@ The application uses the following Supabase tables:
 - **Resource Setup**: Use Resource Management → Add rooms with capacity
 - **Timetable Generation**: Access Timetable Generation → Configure and generate
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -98,7 +98,7 @@ src/
 └── hooks/              # Custom React hooks
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Supabase Setup
 
@@ -113,7 +113,7 @@ src/
 - **Components**: Extend or customize existing components in `src/components/`
 - **Business Logic**: Update algorithms in `src/utils/`
 
-## 📱 Features Overview
+## Features Overview
 
 ### Timetable Generation
 - Conflict detection and resolution
@@ -127,7 +127,7 @@ src/
 - **Resources**: Room management, capacity tracking
 - **Classes**: Batch organization, subject requirements
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -135,18 +135,18 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+## Support
 
 For support and questions:
 - Create an issue in the repository
 - Check the documentation
 - Review existing issues for solutions
 
-## 🚀 Deployment
+## Deployment
 
 The application can be deployed to various platforms:
 
@@ -159,7 +159,7 @@ Build for production:
 npm run build
 ```
 
-## 🔄 Updates
+## Updates
 
 Stay updated with the latest features and improvements by:
 - Watching the repository
@@ -168,4 +168,3 @@ Stay updated with the latest features and improvements by:
 
 ---
 
-Built with ❤️ using React, Supabase, and modern web technologies.
