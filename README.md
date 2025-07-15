@@ -1,5 +1,5 @@
 
-# Batch Beacon Timetable 
+# Automated Timetable Generator
 
 A comprehensive timetable management system built with React and Supabase, designed to streamline academic scheduling for educational institutions.
 
